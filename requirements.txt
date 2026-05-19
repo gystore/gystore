@@ -1,3 +1,4 @@
 streamlit
 supabase
+streamlit_calendar
 pandas
